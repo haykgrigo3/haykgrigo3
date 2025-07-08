@@ -6,6 +6,7 @@ I'm a Computer Science Student at Muhlenberg College
 
 Undergraduate Researcher - Summer 2025  
 
+- Conducting independent research under the mentorship of Dr. Proyash Podder at Muhlenberg College 
 - Investigateing password vulnerabilities, researching why people choose bad passwords 
 - Having a lot of fun learning about the basics of Cyber Security 
 - Currently building a tool for password classification and analysis in Python
