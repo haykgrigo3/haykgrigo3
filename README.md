@@ -8,7 +8,7 @@ I'm a Computer Science Student at Muhlenberg College
   A front-end replica of GTA Online’s Warstock Cache & Carry store, built with HTML/CSS  
    [Live demo](https://haykgrigo3.github.io/warstock-clone/)
 
-## 🛠️ Skills
+##  Skills
 
 - HTML • CSS • JavaScript  
 - Python • Java • Git & GitHub    
