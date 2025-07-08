@@ -23,8 +23,8 @@ Undergraduate Researcher - Summer 2025
 
 - Built with Firebase Auth, real-time data filtering, and clean UI components
 - Designed responsive card layouts with field-tagged alumni data
-- Focused on scalable architecture and modular design
 - Currently in private beta with over 50 users (no public link available yet)
+- Still needs a lot of work 
 
 
 ##  Skills
