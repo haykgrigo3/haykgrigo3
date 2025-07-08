@@ -18,6 +18,15 @@ Undergraduate Researcher - Summer 2025
   A front-end replica of GTA Online’s Warstock Cache & Carry store, built with HTML/CSS  
    [Live demo](https://haykgrigo3.github.io/warstock-clone/)
 
+-## Alumni Circle (In Development)
+  An alumni directory platform for alumni from fraternities, sororities and sport teams to connect, network, and discover shared experiences.
+
+- Built with Firebase Auth, real-time data filtering, and clean UI components
+- Designed responsive card layouts with field-tagged alumni data
+- Focused on scalable architecture and modular design
+- Currently in private beta with over 50 users (no public link available yet)
+
+
 ##  Skills
 
 - HTML • CSS • JavaScript  
