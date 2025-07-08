@@ -8,7 +8,7 @@ Undergraduate Researcher - Summer 2025
 
 - Investigateing password vulnerabilities, researching why people choose bad passwords 
 - Having a lot of fun learning about the basics of Cyber Security 
-- Current building a tool for password classification and analysis in Python
+- Currently building a tool for password classification and analysis in Python
 
 
 
@@ -27,11 +27,21 @@ Undergraduate Researcher - Summer 2025
 - Still needs a lot of work 
 
 
-##  Skills
+## Skills
 
-- HTML • CSS • JavaScript  
-- Python • Java • Git & GitHub    
-- Currently learning: Cybersecurity fundamentals and Rust
+- **Languages:** Python, Java, HTML, CSS, JavaScript  
+- **Tools & Technologies:** REST APIs, Git, GitHub, Firebase  
+- **Currently Learning:** Cybersecurity fundamentals, Rust
+
+---
+
+## Tools & Platforms
+
+- **Operating Systems:** macOS, Windows 11, Ubuntu, Parrot OS (for security research)  
+- **Editors:** VS Code  
+- **Other Tools:** GitHub Desktop
+
+
 
 ##  Connect with Me
 
