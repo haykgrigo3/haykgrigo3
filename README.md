@@ -5,9 +5,10 @@ I'm a Computer Science Student at Muhlenberg College
 ## Current Roles
 
 Undergraduate Researcher - Summer 2025  
-• Investigateing password vulnerabilities, researching why people choose bad passwords 
-• Having a lot of fun learning about the basics of Cyber Security 
-• Current building a tool for password classification and analysis in Python
+
+- Investigateing password vulnerabilities, researching why people choose bad passwords 
+- Having a lot of fun learning about the basics of Cyber Security 
+- Current building a tool for password classification and analysis in Python
 
 
 
