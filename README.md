@@ -2,7 +2,7 @@
 
 I'm a Computer Science Student at Muhlenberg College
 
-## Current Roles
+## Current Role
 
 Undergraduate Researcher - Summer 2025  
 
