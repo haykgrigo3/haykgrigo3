@@ -16,7 +16,7 @@ Undergraduate Researcher - Summer 2025
 ## Projects
 
 - **[GTA Warstock Site Replica](https://github.com/haykgrigo3/warstock-clone)**  
-  A front-end replica of GTA Online’s Warstock Cache & Carry store, built with HTML/CSS  
+  A front-end replica of GTA Online’s Warstock Cache & Carry store, built it with HTML/CSS  
    [Live demo](https://haykgrigo3.github.io/warstock-clone/)
 
 ### Alumni Circle (In Development)
