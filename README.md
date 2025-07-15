@@ -27,7 +27,7 @@ Undergraduate Researcher - Summer 2025
   - Fully open-source with documented training data and process
 
 
-### Alumni Circle (In Development)
+- ## Alumni Circle (In Development)
   An alumni directory platform for alumni from fraternities, sororities and sport teams to connect, network, and discover shared experiences.
 
 - Built with Firebase Auth, real-time data filtering, and clean UI components
