@@ -55,7 +55,7 @@ Undergraduate Researcher - Summer 2025
 ##  Connect with Me
 
 - LinkedIn: [linkedin.com/in/hayk-grigorian-853214273](www.linkedin.com/in/hayk-grigorian-853214273)
-- GitHub: [github.com/haykgrigo3](https://github.com/haykgrigo3)
+
 
 
 <!--
