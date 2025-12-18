@@ -46,7 +46,7 @@ Undergraduate Researcher - Summer 2025
 
 ## Tools & Platforms
 
-- **Operating Systems:** macOS, Windows 11, Ubuntu, Parrot OS (for security research)  
+- **Operating Systems:** macOS, Windows 11, Ubuntu 
 - **Editors:** VS Code  
 - **Other Tools:** GitHub Desktop
 
