@@ -18,7 +18,7 @@ Undergraduate Researcher - Summer 2025
 - **[TimeCapsule LLM](https://github.com/haykgrigo3/TimeCapsuleLLM)**  
   An experimental language model trained entirely from scratch on historical texts from 1800–1875 London to eliminate modern bias.
 
-  - Built on [nanoGPT](https://github.com/karpathy/nanoGPT) and [Phi 1.5 by Microsoft](https://huggingface.co/microsoft/phi-1_5), [Llama](https://huggingface.co/docs/transformers/en/model_doc/llama#transformers.LlamaForCausalLM) trained using only period-authentic books, newspapers, legal documents, etc
+  - Built on [nanoGPT](https://github.com/karpathy/nanoGPT) and [Phi 1.5 by Microsoft](https://huggingface.co/microsoft/phi-1_5), [LLaMa](https://huggingface.co/docs/transformers/en/model_doc/llama#transformers.LlamaForCausalLM) trained using only period-authentic books, newspapers, legal documents, etc
   - Fully open-source with documented training data and process
 
 
