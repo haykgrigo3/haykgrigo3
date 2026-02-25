@@ -15,15 +15,10 @@ Undergraduate Researcher - Summer 2025
 
 ## Projects
 
-- **[GTA Warstock Site Replica](https://github.com/haykgrigo3/warstock-clone)**  
-  A front-end replica of GTA Online’s Warstock Cache & Carry store, built it with HTML/CSS  
-   [Live demo](https://haykgrigo3.github.io/warstock-clone/)
-
 - **[TimeCapsule LLM](https://github.com/haykgrigo3/TimeCapsuleLLM)**  
-  An experimental language model trained entirely from scratch on historical texts from 1800–1850 London to eliminate modern bias.
+  An experimental language model trained entirely from scratch on historical texts from 1800–1875 London to eliminate modern bias.
 
-  - Built on [nanoGPT](https://github.com/karpathy/nanoGPT) and [Phi 1.5 by Microsoft](https://huggingface.co/microsoft/phi-1_5), trained using only period-authentic books, newspapers, legal documents, etc
-  - Sample output demonstrates historical phrasing with minimal modern vocabulary  
+  - Built on [nanoGPT](https://github.com/karpathy/nanoGPT) and [Phi 1.5 by Microsoft](https://huggingface.co/microsoft/phi-1_5), [Llama](https://huggingface.co/docs/transformers/en/model_doc/llama#transformers.LlamaForCausalLM) trained using only period-authentic books, newspapers, legal documents, etc
   - Fully open-source with documented training data and process
 
 
