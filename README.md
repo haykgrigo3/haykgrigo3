@@ -22,30 +22,6 @@ Undergraduate Researcher - Summer 2025
   - Fully open-source with documented training data and process
 
 
-- ## Alumni Circle (In Development)
-  An alumni directory platform for alumni from fraternities, sororities and sport teams to connect, network, and discover shared experiences.
-
-- Built with Firebase Auth, real-time data filtering, and clean UI components
-- Designed responsive card layouts with field-tagged alumni data
-- Currently in private beta with over 50 users (no public link available yet)
-- Still needs a lot of work 
-
-
-## Skills
-
-- **Languages:** Python, Java, HTML, CSS, JavaScript  
-- **Tools & Technologies:** REST APIs, Git, GitHub, Firebase  
-- **Currently Learning:** Cybersecurity fundamentals, Rust
-
----
-
-## Tools & Platforms
-
-- **Operating Systems:** macOS, Windows 11, Ubuntu 
-- **Editors:** VS Code  
-- **Other Tools:** GitHub Desktop
-
-
 
 ##  Connect with Me
 
