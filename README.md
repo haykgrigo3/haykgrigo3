@@ -2,6 +2,10 @@
 
 I'm a Computer Science Student at Muhlenberg College
 
+## Open to Opportunities
+I’m currently seeking new grad software engineering, machine learning, or AI infrastructure roles.  
+Feel free to connect with me on LinkedIn or reach out by email.
+
 ## Projects
 
 - **[TimeCapsule LLM](https://github.com/haykgrigo3/TimeCapsuleLLM)**  
