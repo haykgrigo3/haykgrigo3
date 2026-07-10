@@ -1,6 +1,6 @@
 ## Hi there, I'm Hayk Grigorian
 
-I'm a Computer Science Student at Muhlenberg College
+I'm a Computer Science new grad from Muhlenberg College
 
 ## Open to Opportunities
 I’m currently seeking new grad software engineering, machine learning, or AI infrastructure roles.  
