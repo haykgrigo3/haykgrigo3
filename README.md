@@ -3,7 +3,7 @@
 I'm a Computer Science new grad from Muhlenberg College
 
 ## Current position 
-Machine Learning Engineer at Oraya Solutions 
+ML Engineer at Oraya Solutions 
 
 ## Personal Projects
 
