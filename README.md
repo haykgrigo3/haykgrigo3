@@ -2,22 +2,24 @@
 
 I'm a Computer Science new grad from Muhlenberg College
 
-## Open to Opportunities
-I’m currently seeking new grad software engineering, machine learning, or AI infrastructure roles.  
-Feel free to connect with me on LinkedIn or reach out by email.
+## Current position 
+Machine Learning Engineer at Oraya Solutions 
 
-## Projects
+## Personal Projects
 
 - **[TimeCapsule LLM](https://github.com/haykgrigo3/TimeCapsuleLLM)**  
  Experimental language models trained entirely from scratch on historical texts from 1800–1875 London.
 
   - Built on [nanoGPT](https://github.com/karpathy/nanoGPT) and [Phi 1.5 by Microsoft](https://huggingface.co/microsoft/phi-1_5), [LLaMa](https://huggingface.co/docs/transformers/en/model_doc/llama#transformers.LlamaForCausalLM) trained using only period-authentic books, newspapers, legal documents, etc
   - Fully open-source with documented training data and process
+  - Independently funded
+    
+## Publications 
+-- [TimeCapsule: Generative Hallucination as a Method for Historical Sensemaking](https://dl.acm.org/doi/10.1145/3803784.3807554)
 
 
 ##  Connect with Me
-
-- LinkedIn: [linkedin.com/in/hayk-grigorian-853214273](www.linkedin.com/in/hayk-grigorian-853214273)
+-- LinkedIn: [linkedin.com/in/hayk-grigorian-853214273](www.linkedin.com/in/hayk-grigorian-853214273)
 
 
 <!--
